@@ -13,7 +13,7 @@
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "Vagosclub",
 	"newClientUrl" : "http://www.vagosclub.cl/cliente/client-to-update.zip",
 	"clientExecutable": "vagosclub.exe"
 }
